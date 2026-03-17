@@ -4,8 +4,6 @@ This folder contains the legendary spinning ASCII donut in C, but with one impor
 
 Important credit where it belongs: the original `donut.c` logic was created by Andy Sloane. The point of this version is not to pretend the algorithm is new. The point is to present that iconic code as a little code-art object where the donut program is also visually shaped like a donut.
 
-![Donut-shaped source code](assets/donut.png)
-
 ## What This Is
 
 `donut.c` prints an animated torus directly in the terminal using ASCII characters and a surprisingly small amount of code.
