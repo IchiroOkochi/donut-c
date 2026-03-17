@@ -1,6 +1,6 @@
                          #include<math.h>//the donut is
                     #include<stdio.h>//coded sugar high!
-                 #include<string.h>//thanks to andy sloane,                           <----- I ate this part, sorry guys but I was hungry.
+                 #include<string.h>//thanks to andy sloane,                           <----- I took a byte here, I was hungry...
               #include<unistd.h>//for cooking up this c code!
            int main ( ) { float A = 0 , B = 0 , i , j ; int k ;
          float z [ 1760 ] ; char b [ 1760 ] ; printf ( "\x1b[2J" ) ;
