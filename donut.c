@@ -1,7 +1,7 @@
-                         #include<math.h>//hot torus
-                    #include<stdio.h>//coded sugar high!!!!
-                 #include<string.h>//sprinkled with starlight!
-              #include<unistd.h>//tiny galaxy glazed in ascii!!!!
+                         #include<math.h>//the donut is
+                    #include<stdio.h>//coded sugar high!
+                 #include<string.h>//thanks to andy sloane,                           <----- I ate this part, sorry guys but I was hungry.
+              #include<unistd.h>//for cooking up this c code!
            int main ( ) { float A = 0 , B = 0 , i , j ; int k ;
          float z [ 1760 ] ; char b [ 1760 ] ; printf ( "\x1b[2J" ) ;
        for ( ; ; ) { memset ( b , 32 , 1760 ) ; memset ( z , 0 , 7040 )
@@ -19,9 +19,9 @@
      > 0 && 80 > x && D > z [                    o ] ) { z [ o ] = D ; b [
       o ] = ".,-~:;=!*#$@" [ N > 0 ? N : 0 ] ; } } printf ( "\x1b[H" ) ;
        for ( k = 0 ; k < 1761 ; k ++ ) putchar ( k % 80 ? b [ k ] : 10 )
-         ; A += 0.04 ; B += 0.02 ; usleep ( 30000 ) ; } }/*tiny torus 
-           it hums in loops and throws bright crumbs through space. 
-              every spin feels like a sugar-fueled magic trick!!!
-                 cheers to Andy Sloane for the first bite of!!
-                    this cosmic snack. warm screen, zero!!!
-                           diets, all sparkle!!!!!!*/
+         ; A += 0.04 ; B += 0.02 ; usleep ( 30000 ) ; } }/*this spinni
+           ng donut is shaped like the very donut it renders. each t
+              oken flows around a hollow core. code as torus, tor
+                 us as code. compile, run, and watch it spin i
+                    n your terminal. a perfect loop of form
+                           and function............*/
